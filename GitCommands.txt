@@ -1,0 +1,7 @@
+git init
+git add file1.txt
+git commit -m "my File1"
+git add file2.txt
+git commit -m "my File2"
+git remote add origin https://github.com/sravipati0828/Sri_DEVOPS.git
+git push -u origin master
